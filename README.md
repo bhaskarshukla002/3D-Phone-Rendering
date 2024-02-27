@@ -1,5 +1,7 @@
 # 3D Rendering Example Using WebGI and Gsap
 
+https://github.com/bhaskarshukla002/3D-Rendering-example-Using-WebGI-and-Gsap/assets/86822762/b22f8e15-1f86-4d64-8649-29004cffe578
+
 This project is a simple example of how to use WebGI and Gsap to create a 3D rendering of a scene with animations and interactions.
 
 WebGI is a JavaScript library that provides a high-level API for WebGL, the web standard for 3D graphics. It allows you to create 3D scenes with meshes, materials, lights, cameras, and more.
